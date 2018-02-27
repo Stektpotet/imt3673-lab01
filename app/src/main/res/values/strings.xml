@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LAB 1</string>
+    <string name="a1_name">A1</string>
+    <string name="a2_name">A2</string>
+    <string name="a3_name">A3</string>
+    <string name="EditFieldHint">Insert name</string>
+    <string name="B1">Button</string>
+    <string name="EditField">Name</string>
+
+    <string-array name="options">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+        <item>Perhaps</item>
+    </string-array>
+
+</resources>
